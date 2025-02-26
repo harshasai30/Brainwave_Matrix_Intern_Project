@@ -1,0 +1,51 @@
+Invoice ID,Date,Product,Category,Quantity Sold,Unit Price,Total Sales,Customer Type,Payment Method,City
+e6de64e1-3d8c-489f-8e89-918d45b94b71,2025-01-12,Smartphone,Electronics,3,476.58,1429.74,New,Cash,Stephanieberg
+1c729afb-222e-4d67-85b1-9b9ce4b43963,2025-01-22,Sofa,Furniture,2,416.2,832.4,Returning,Credit Card,North Michelle
+cd2e4c0c-49fb-43b2-8374-9013eef7a2bc,2025-01-20,Bread,Groceries,1,362.06,362.06,Returning,Cash,Perryton
+13150953-88e7-4c58-af7c-57cf7245843a,2025-02-24,Smartwatch,Electronics,7,85.83,600.81,Returning,Credit Card,East Paulside
+989e018f-57d5-4105-8ea9-b7f16fb6d5b9,2025-02-23,Bread,Groceries,10,366.79,3667.9,Returning,Cash,Lake Zachary
+7bc8ce7f-872c-4813-ad8f-a14d11247cba,2025-01-24,Eggs,Groceries,5,385.45,1927.25,Returning,Credit Card,Romantown
+d8cbff9c-ce92-490f-8195-cbaf3dc30999,2025-02-12,Sneakers,Clothing,8,192.38,1539.04,Returning,Credit Card,Port Timothyland
+3fae2ba6-18bf-44bc-bd7a-5a5c4c2754cd,2025-02-09,Milk,Groceries,6,33.17,199.02,Returning,Online Payment,New Shawn
+85dcc139-b81d-4013-89b2-fe1a7cc928d4,2025-01-31,Eggs,Groceries,3,234.41,703.23,Returning,Online Payment,Reneeport
+0866b21f-7fd6-47f1-92f7-c2d795e474fe,2025-01-24,Sofa,Furniture,8,311.7,2493.6,Returning,Online Payment,Lake Michaelberg
+8d334692-e93a-48f6-95cd-83f24de615ef,2025-02-02,Table,Furniture,10,192.74,1927.4,New,Online Payment,Robertborough
+48c4ccc7-9edf-498a-8e99-c486051ff310,2025-01-17,Smartwatch,Electronics,9,217.25,1955.25,Returning,Credit Card,Sarafurt
+577876ed-cdfb-4066-ab67-5105f165e6da,2025-01-30,Headphones,Electronics,10,235.09,2350.9,Returning,Credit Card,Leahborough
+fc47fa74-57f4-49a0-9a39-e5abefd8a4ac,2025-02-12,T-Shirt,Clothing,7,258.47,1809.29,Returning,Credit Card,East Denisechester
+808116a1-ada7-4543-a122-f83ccc75440b,2025-01-06,T-Shirt,Clothing,9,68.54,616.86,New,Credit Card,Lake Patrickbury
+85564b97-869a-44bf-bfa8-cace2f695faf,2025-02-15,Jeans,Clothing,10,106.1,1061.0,New,Online Payment,Biancaburgh
+94e2e104-a006-422b-a4e0-3d363af2c344,2025-02-25,T-Shirt,Clothing,3,386.1,1158.3,New,Online Payment,East Theresaton
+8b582cae-963f-4dcf-a62a-aa285c471c58,2025-01-29,Sneakers,Clothing,2,234.01,468.02,Returning,Cash,West Dan
+e5fc6aaf-3c7e-483f-8b2f-c30229ad9229,2025-01-10,Sofa,Furniture,7,205.12,1435.84,Returning,Credit Card,East Brendaview
+4d1a771d-470e-4c1d-a065-62dd39910c99,2025-02-20,Table,Furniture,9,313.31,2819.79,New,Credit Card,Brownfort
+e5b2baf0-75ec-4503-b706-6f32a7748f01,2025-01-19,Jeans,Clothing,5,444.21,2221.05,Returning,Cash,West Taraton
+e80b2c9b-1127-4e44-89b6-f83135224c5a,2025-01-26,Smartwatch,Electronics,8,372.19,2977.52,Returning,Online Payment,Nicoleview
+06bce774-074f-497d-82ac-365e80f6ffe1,2025-02-17,Bread,Groceries,10,443.27,4432.7,Returning,Cash,North Michaelborough
+007ed124-9921-4c35-8069-3351da87a7a6,2025-01-19,Smartphone,Electronics,1,472.64,472.64,New,Online Payment,Jacksonchester
+113e21c3-97c3-4b8f-ac69-c190612b354e,2025-01-04,Bread,Groceries,3,9.48,28.44,Returning,Online Payment,Baileyview
+dd51d9b9-6480-40e0-b2b5-413c098b18f7,2025-02-05,Sofa,Furniture,5,330.05,1650.25,Returning,Online Payment,Johnnystad
+60d77d97-5eff-42a1-b550-21c2a71b571e,2025-01-29,Chair,Furniture,10,227.56,2275.6,New,Cash,New Wandafort
+abab967b-abaf-436c-bd20-ba45500f3e54,2025-01-09,Jacket,Clothing,5,198.65,993.25,New,Cash,Hendersonborough
+55c01dc8-8a1e-4b96-8cd3-27c92ff6847d,2025-01-04,Rice,Groceries,9,100.08,900.72,Returning,Credit Card,Lewischester
+3903de1c-6774-46c5-ba15-0e1cb4ea1485,2025-02-10,Bookshelf,Furniture,10,474.02,4740.2,Returning,Credit Card,New Chase
+431cc973-afaa-4442-b879-1f0e792c37e0,2025-01-06,Smartwatch,Electronics,5,240.17,1200.85,New,Online Payment,Clarkechester
+36a6be39-c6f7-4d0c-88e7-39ff2790318a,2025-01-15,Smartwatch,Electronics,9,11.48,103.32,New,Online Payment,South Gary
+fce5a3cb-9ca5-447b-8243-6c60a80ac90b,2025-02-10,Bread,Groceries,2,397.27,794.54,New,Cash,West Wayne
+af251733-859e-4416-ac89-165ee657947c,2025-02-25,Jeans,Clothing,2,54.65,109.3,New,Credit Card,West Sara
+56d10f41-e149-4af7-bfe8-889557351488,2025-01-26,Sneakers,Clothing,1,206.66,206.66,New,Online Payment,Jasonshire
+438091e7-b8b4-44e1-8a5d-3294bcc37a52,2025-01-03,Sofa,Furniture,6,273.36,1640.16,Returning,Cash,Hunterberg
+7f2fb6b6-cb0e-42f6-b5ed-404da734ed67,2025-01-01,Chair,Furniture,1,174.89,174.89,New,Cash,Rhondaland
+d245eff0-0db6-477a-b36f-ab23644e240e,2025-01-03,Table,Furniture,2,27.96,55.92,New,Online Payment,Baxterbury
+f7605834-248a-4910-9bc9-3c1c0db477c0,2025-02-04,Headphones,Electronics,8,12.77,102.16,New,Online Payment,Watsonton
+20c540e4-61a7-41e7-8116-bd1874babe21,2025-01-06,T-Shirt,Clothing,9,171.39,1542.51,Returning,Credit Card,Jacksonville
+d93b433c-99d4-4892-ba43-ec7cca1c98f2,2025-02-24,Laptop,Electronics,5,77.82,389.1,Returning,Cash,Ashleymouth
+951480eb-0370-435a-a246-44bd9cad11af,2025-01-29,Eggs,Groceries,6,31.85,191.1,Returning,Cash,Christophermouth
+33e2c180-e75a-4f8c-9040-9155ec25f3e7,2025-02-15,Smartwatch,Electronics,7,463.38,3243.66,New,Online Payment,Georgehaven
+d0135b1d-ae8e-4917-9273-3226a5acfa0c,2025-02-15,Laptop,Electronics,1,180.26,180.26,Returning,Credit Card,Jeremymouth
+abdc3f32-bf5b-4d01-bdd1-738f1f3d1847,2025-01-20,Headphones,Electronics,4,393.47,1573.88,Returning,Credit Card,Cynthiafort
+49df2273-2bd3-4b4d-8fdf-c940a3a640b4,2025-01-03,Headphones,Electronics,1,163.21,163.21,New,Cash,Maryberg
+bd1289a5-0d97-487c-ac53-df557f393abe,2025-01-01,Jacket,Clothing,1,207.61,207.61,Returning,Credit Card,New Benjamin
+5e9f9fe7-c5a7-47ef-a57c-a177f2e7c47a,2025-02-24,Rice,Groceries,6,79.72,478.32,New,Cash,South William
+29afecd2-bfe3-4278-a672-c6c38d5bdf2c,2025-01-10,Eggs,Groceries,7,479.89,3359.23,New,Cash,Lake Amberfurt
+707e3cf5-2856-474c-9240-151e74ebaee4,2025-02-11,Rice,Groceries,9,100.9,908.1,Returning,Online Payment,Loriborough
