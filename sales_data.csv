@@ -1,0 +1,21 @@
+Date,Store,Product,Quantity,UnitPrice
+2023-01-01,Store A,Product X,10,20
+2023-01-01,Store B,Product Y,5,30
+2023-01-02,Store A,Product X,15,20
+2023-01-02,Store C,Product Z,8,40
+2023-01-03,Store B,Product Y,12,30
+2023-01-03,Store A,Product Z,7,40
+2023-01-04,Store C,Product X,9,20
+2023-01-04,Store A,Product Y,6,30
+2023-01-05,Store B,Product Z,11,40
+2023-01-05,Store C,Product Y,4,30
+2023-01-06,Store A,Product X,13,20
+2023-01-06,Store B,Product Y,9,30
+2023-01-07,Store C,Product Z,6,40
+2023-01-07,Store A,Product Y,10,30
+2023-01-08,Store B,Product X,14,20
+2023-01-08,Store C,Product Z,7,40
+2023-01-09,Store A,Product Z,8,40
+2023-01-09,Store B,Product Y,11,30
+2023-01-10,Store C,Product X,5,20
+2023-01-10,Store A,Product Y,12,30
