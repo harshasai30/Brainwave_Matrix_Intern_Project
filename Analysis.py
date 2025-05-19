@@ -4,7 +4,7 @@ import seaborn as sns
 import os
 # Load the dataset
 
-os.chdir("C:/Users/yaswanth/Braniwave_Matrix_Intern_Project/Project/")
+os.chdir("C:/Users/harsha/Braniwave_Matrix_Intern_Project/Project/")
 df = pd.read_csv("sales_data.csv")  # Make sure the CSV file is in the same directory or provide the full path
 
 # Exploratory Data Analysis (EDA)
